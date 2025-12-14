@@ -89,7 +89,7 @@ width: 62%;
   font-size: 1.3em;
 }
 .nav > li > a:hover {
-	color: #0acf66 !important;
+	color: #42e011 !important;
 	  transition: 1s all;
 	  -webkit-transition: 1s all;
 	  -moz-transition: 1s all;
@@ -97,14 +97,14 @@ width: 62%;
 	  -ms-transition: 1s all;
 }
 ul.nav.navbar-nav li a.active {
-  color: #0acf66 !important;
+  color: #42e011 !important;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-   color: #0acf66;
+   color: #42e011;
   background: none;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-  color: #0acf66;
+  color: #42e011;
   background: none;
 }
 .navbar-nav > li {
@@ -116,7 +116,7 @@ ul.nav.navbar-nav li a.active {
   margin-bottom: 0;
 }
 .header-nav {
-  background-color: #3f67bf;
+  background-color: #bfc2c7;
   color: #fff;
   border-top: 10px solid#0acf66;
   padding: 1em 0;
@@ -365,7 +365,7 @@ ul.nav.navbar-nav li a.active {
   width: 100%;
 }
 .features-right {
-  background: #0ACF66;
+  background: #42e011;
   padding: 1.58em;
   color:#fff;
 }
@@ -582,7 +582,7 @@ h3.team {
   width: 100%;
 }
 .team-grid h3 a:hover{
-	color:#0ACF66;
+	color: #42e011;
 	text-decoration:none;
 }
 .team-grid p {
@@ -820,7 +820,7 @@ section#tables {
   margin-bottom: .7em;
   text-align: left;
   font-size: 2.5em;
-  color: #0ACF66;
+  color: #42e011;
   font-weight: 400;
 }
 .bs-example h3 {
@@ -851,7 +851,7 @@ section#tables {
   border-top: none !important;
 }
 #tables h1 {
-  color: #0ACF66;
+  color: #42e011;
 }
 .tab-content > .active {
   display: block;
@@ -908,7 +908,7 @@ code {
   background-color: #00bcd4;
 }
 .progress-bar-success {
-  background-color: #8bc34a;
+  background-color: #42e011;
 }
 .progress-bar-warning {
   background-color: #ffc107;
@@ -939,7 +939,7 @@ code {
   background-color: #03a9f4;
 }
 .badge-success {
-  background-color: #8bc34a;
+  background-color: #42e011;
 }
 .badge-warning {
   background-color: #ffc107;
@@ -1225,12 +1225,12 @@ ul.men-grid li{
 }
 .pagination > li > a:hover{
   color: #FFFFFF;
-  border-color: #0ACF66;
-  background: #0ACF66;
+  border-color: #42e011;
+  background: #42e011;
 }
 a.more {
   color: #fff;
-  background: #0ACF66;
+  background: #42e011;
   padding: 0.5em 1em;
   display: inline-block;
   text-decoration: none;
@@ -1265,7 +1265,7 @@ font-size: 2.5em;
 .single-bottom  input[type="submit"]{
 	width: 10%;
 	font-size: 1.3em;
-	background: #0ACF66;
+	background: #42e011;
 	padding: 0.4em 0.8em;
 	text-align: center;
 	color: #fff;
@@ -1332,7 +1332,7 @@ font-size: 2.5em;
 	font-size: 1.1em;
 }
 ul.grid-part li a i{
-	background: #0ACF66;
+	background:#42e011;
 	width:5px;
 	height: 5px;
 	display: inline-block;
@@ -1340,7 +1340,7 @@ ul.grid-part li a i{
   margin-right: 10px;
 }
  ul.grid-part li a:hover{
-	color:#3f67bf;
+	color:#a6afc4;
 	padding-left:0.2em;
 }
 ul.grid-part {
@@ -1366,7 +1366,7 @@ ul.grid-part {
   font-weight: 600;
   margin: 0;
   text-align: center;
-  color: #339966;
+  color: #42e011;
 }
 div#portfolio {
   padding-top: 2.5em;
@@ -1560,7 +1560,7 @@ div#portfoliolist {
 .moments h3 {
   font-family: 'Metamorphous', cursive;
   font-size: 3em;
-  color: #339966;
+  color: #42e011;
   text-align: center;
 }
 .moments-left img {
@@ -1625,7 +1625,7 @@ div#portfoliolist {
   border: none;
   outline: none;
   color: #fff;
-  background: #3f67bf;
+  background: #b4b9c3;
   width: 49%;
   padding: 15px 0px;
   font-size: 18px;
@@ -1638,7 +1638,7 @@ div#portfoliolist {
   -ms-border-radius: 0.3em;
 }
 .contact-textarea input[type="submit"]:hover {
-	background:#0ACF66;
+	background:#42e011;
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
 	-moz-transition: 0.5s all;
@@ -1649,7 +1649,7 @@ div#portfoliolist {
 border: none;
   outline: none;
   color: #fff;
-  background: #3f67bf;
+  background: #b4b9c3;
   width: 49%;
   padding: 15px 0px;
   font-size: 18px;
@@ -1663,7 +1663,7 @@ border: none;
   cursor: pointer;
 }
 .contact-textarea input[type="reset"]:hover {
-	background:#0ACF66;
+	background:#42e011;
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
 	-moz-transition: 0.5s all;
