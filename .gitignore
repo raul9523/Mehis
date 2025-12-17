@@ -1,0 +1,39 @@
+# --- Archivos del Sistema Operativo (OS) ---
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows (por si colaboras con alguien que use Windows)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Archivos de Configuración del Editor (IDE) ---
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# JetBrains (WebStorm, IntelliJ, PyCharm)
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# --- Directorios de Dependencias y Build (Recomendado) ---
+# Es buena práctica ignorar esto también para no subir miles de archivos innecesarios
+node_modules/
+dist/
+build/
+coverage/
+
+# --- Archivos de Log y Seguridad ---
+*.log
+.env            # ¡Importante! Nunca subas tus claves secretas
+.env.local
