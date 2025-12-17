@@ -132,11 +132,11 @@ ul.nav.navbar-nav li a.active {
 .banner-slide{
 	min-height: 650px;
 	position: relative;
-	background:url(../images/banner.jpg)no-repeat 0px 0px;
+	background:url(../images/banner.webp)no-repeat 0px 0px;
 	background-size:cover;
 }
 .banner1{
-	background:url(../images/banner1.jpg)no-repeat 0px 0px;
+	background:url(../images/banner1.webp)no-repeat 0px 0px;
 	background-size:cover; 
 	min-height: 650px;
 	position: relative;
