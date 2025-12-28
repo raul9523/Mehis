@@ -3,6 +3,15 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
+svg{
+	position: fixed;
+	bottom: 4%;
+	right: 10%;
+	transition: .3s ease;
+ }
+svg:hover{
+	transform: translateY(-15%);
+ }
 body{
     font-family: 'Open Sans', sans-serif;
 	margin:0;
